@@ -1,0 +1,6 @@
+C:\Users\Elvis\source\repos\SocketsConOpcionesAvanzadas\ClienteEcoNoBloquante\bin\Debug\ClienteEcoNoBloquante.exe.config
+C:\Users\Elvis\source\repos\SocketsConOpcionesAvanzadas\ClienteEcoNoBloquante\bin\Debug\ClienteEcoNoBloquante.exe
+C:\Users\Elvis\source\repos\SocketsConOpcionesAvanzadas\ClienteEcoNoBloquante\bin\Debug\ClienteEcoNoBloquante.pdb
+C:\Users\Elvis\source\repos\SocketsConOpcionesAvanzadas\ClienteEcoNoBloquante\obj\Debug\ClienteEcoNoBloquante.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\source\repos\SocketsConOpcionesAvanzadas\ClienteEcoNoBloquante\obj\Debug\ClienteEcoNoBloquante.exe
+C:\Users\Elvis\source\repos\SocketsConOpcionesAvanzadas\ClienteEcoNoBloquante\obj\Debug\ClienteEcoNoBloquante.pdb

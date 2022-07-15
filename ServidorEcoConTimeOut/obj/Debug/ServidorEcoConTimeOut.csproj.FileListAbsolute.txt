@@ -1,0 +1,7 @@
+C:\Users\Elvis\source\repos\SocketsConOpcionesAvanzadas\ServidorEcoConTimeOut\bin\Debug\ServidorEcoConTimeOut.exe.config
+C:\Users\Elvis\source\repos\SocketsConOpcionesAvanzadas\ServidorEcoConTimeOut\bin\Debug\ServidorEcoConTimeOut.exe
+C:\Users\Elvis\source\repos\SocketsConOpcionesAvanzadas\ServidorEcoConTimeOut\bin\Debug\ServidorEcoConTimeOut.pdb
+C:\Users\Elvis\source\repos\SocketsConOpcionesAvanzadas\ServidorEcoConTimeOut\obj\Debug\ServidorEcoConTimeOut.csprojAssemblyReference.cache
+C:\Users\Elvis\source\repos\SocketsConOpcionesAvanzadas\ServidorEcoConTimeOut\obj\Debug\ServidorEcoConTimeOut.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\source\repos\SocketsConOpcionesAvanzadas\ServidorEcoConTimeOut\obj\Debug\ServidorEcoConTimeOut.exe
+C:\Users\Elvis\source\repos\SocketsConOpcionesAvanzadas\ServidorEcoConTimeOut\obj\Debug\ServidorEcoConTimeOut.pdb
